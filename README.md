@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Semen Kuzmin<br>👀 I’m a junior React Native developer.<br>💞️ I’m looking to collaborate on interesting projects<br>📫 How to reach me semeonky@gmail.com or
+👋 Hi, I’m Semen Kuzmin<br>👀 I’m a junior React Native developer<br>💞️ I’m looking to collaborate on interesting projects<br>📫 How to reach me semeonky@gmail.com or
 [Telegram](https://t.me/semenKuzminWork)
 
 
